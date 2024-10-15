@@ -15,4 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pavank-v/leet/tree/master/0141-linked-list-cycle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
