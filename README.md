@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pavank-v/leet/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pavank-v/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavank-v/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pavank-v/leet/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pavank-v/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavank-v/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pavank-v/leet/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pavank-v/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavank-v/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -48,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/pavank-v/leet/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pavank-v/leet/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
