@@ -1,12 +1,11 @@
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
-        stack = [0]
-        visited = set(stack)
-
-        while stack:
-            ind = stack.pop()
+        visited = set()
+        def dfs(rooms, ind, visited):
+            visited.add(ind)
             for i in rooms[ind]:
                 if i not in visited:
-                    stack.append(i)
-                    visited.add(i)
+                    dfs(rooms, i, visited)
+        
+        dfs(rooms, 0, visited)
         return len(rooms) == len(visited)
